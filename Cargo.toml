@@ -1,0 +1,11 @@
+[package]
+name = "ranni"
+authors = ["Antonino Vacalebre <vacalebre.antonino@gmail.com>"]
+description = "caueR ladder network mAgneto-quasi-static iNductive positioN sensor sImulator"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
